@@ -31,7 +31,7 @@
 
 # All
 
-```
+```sh
 $ cat all.txt 
 --------------------------------------------------------------------------------
 Ion Creangă       | Povestea lui Harap      | Alb Basmul cult    | 1877        |
@@ -45,7 +45,7 @@ I.L. Caragiale    | O scrisoare pierdută    | Comedie            |             
 Marin Sorescu     | Iona                    | Teatru modern      |             |
 Mihai Eminsescu   | Luceafarul              | Lirică, romantism  |             |
 G.Bacovia         | Plumb                   | Simbolism          | 1886        |
-Tudor Arghezi     | Testament              | Modernism          |             |
+Tudor Arghezi     | Testament               | Modernism          |             |
 L. Blaga          | Eu nu strivesc          | Modernism          |             |
 I. Barbu          | Riga Crypto             | Modernism          |             |
 Vasile Voiculescu | În grădina Ghetsemani   | Tradiționalism     |             |
