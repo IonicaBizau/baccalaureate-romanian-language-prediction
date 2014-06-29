@@ -54,3 +54,42 @@ Titu Maiorescu    | Junimea si Dacia Lit.   |                    |             |
 --------------------------------------------------------------------------------
 ```
 
+# Prediction
+
+## Psychological novels
+ - Ion Slavici       | Moara cu noroc          | Nuvela psihologică |             | 
+ - Camil Petrescu    | Ultima noapte           | Roman psihologic   | interbelică | 
+
+## Other novels
+ - Marin Preda       | Moromeții               | Roman              | postbelică  |
+ - Ion Creangă       | Povestea lui Harap      | Alb Basmul cult    | 1877        |
+ - M. Sadoveanu      | Baltagul                | Roman              |             |
+
+## Already chosen this year
+ - Liviu Rebreanu    | Ion                     | Roman realist      |             |
+ - George Călinescu  | Enigma Otiliei          | Roman realist      |             |
+ - I.L. Caragiale    | O scrisoare pierdută    | Comedie            |             |
+ - Marin Sorescu     | Iona                    | Teatru modern      |             | 
+
+## Poems
+
+ - Vasile Voiculescu | În grădina Ghetsemani   | Tradiționalism     |             |
+
+----
+
+ - Mihai Eminsescu   | Luceafarul              | Lirică, romantism  |             |
+
+----
+
+ - G.Bacovia         | Plumb                   | Simbolism          | 1886        |
+ - Tudor Arghezi     | Testament               | Modernism          |             |
+ - L. Blaga          | Eu nu strivesc          | Modernism          |             |
+ - I. Barbu          | Riga Crypto             | Modernism          |             |
+
+----
+
+ - Nichita Stanescu  | Leoaică tânără, iubirea | Neomodernism       |             |
+
+
+### Too difficult for me
+ - Titu Maiorescu    | Junimea si Dacia Lit.   |                    |             |
