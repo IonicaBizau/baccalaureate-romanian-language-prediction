@@ -28,3 +28,29 @@
  - viziunea despre lume reflectată într-una dintre nuvelele studiate
  - particularităŃile de construcŃie a unui personaj dintr-un basm cult studiat
  - particularităŃile de construcŃie a unui personaj dintr-un text narativ, aparŃinând unuia dintre următorii autori canonici: Ion Creangă, Ioan Slavici, I.L. Caragiale
+
+# All
+
+```
+$ cat all.txt 
+--------------------------------------------------------------------------------
+Ion Creangă       | Povestea lui Harap      | Alb Basmul cult    | 1877        |
+M. Sadoveanu      | Baltagul                | Roman              |             |
+Ion Slavici       | Moara cu noroc          | Nuvela psihologică |             |
+Camil Petrescu    | Ultima noapte           | Roman psihologic   | interbelică |
+Liviu Rebreanu    | Ion                     | Roman realist      |             |
+George Călinescu  | Enigma Otiliei          | Roman realist      |             |
+Marin Preda       | Moromeții               | Roman              | postbelică  |
+I.L. Caragiale    | O scrisoare pierdută    | Comedie            |             |
+Marin Sorescu     | Iona                    | Teatru modern      |             |
+Mihai Eminsescu   | Luceafarul              | Lirică, romantism  |             |
+G.Bacovia         | Plumb                   | Simbolism          | 1886        |
+Tudor Arghezi     | Testament              | Modernism          |             |
+L. Blaga          | Eu nu strivesc          | Modernism          |             |
+I. Barbu          | Riga Crypto             | Modernism          |             |
+Vasile Voiculescu | În grădina Ghetsemani   | Tradiționalism     |             |
+Nichita Stanescu  | Leoaică tânără, iubirea | Neomodernism       |             |
+Titu Maiorescu    | Junimea si Dacia Lit.   |                    |             |
+--------------------------------------------------------------------------------
+```
+
